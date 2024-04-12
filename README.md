@@ -1,1 +1,1 @@
-# javascript-projetos-de-vida
+# Java-Script-projeto-de-vida
